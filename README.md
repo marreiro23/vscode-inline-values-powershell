@@ -31,7 +31,10 @@ Wanna contribute? It's easy!
 4. `Ctrl/Cmd+Shift+B` to run the build task (look in the terminal drop down to see if the build is running)
 5. `F5` to launch the local build of the extension
 
-That's it! Then all you have to do is:
+That's it! Then all you have to do is:1
+
+$norma = "text"
+
 
 1. Make code changes
 2. Save the files
